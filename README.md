@@ -1,2 +1,4 @@
 # Progression_subtypes
-Repository storing code for our manuscript on Alzheimer's disease progression subtypes.
+
+
+Upon publication, we will publish the code for our article titled "Deep learning-based patient stratification for prognostic enrichment of clinical dementia trials" in this repository.

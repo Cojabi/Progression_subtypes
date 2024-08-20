@@ -5,10 +5,10 @@ Upon publication, we will publish the code for our article titled "Deep learning
 
 **All outputs and pointers towards the patient data have been removed. Therefore, the code is not executable in its current form. Its published solely for transparency.**
 
-### VaDER: Clustering patient trajectories
+## VaDER: Clustering patient trajectories
 The code for training a deep learning model for clustering the patient trajectories can be found [here](https://github.com/yalchik/VaDER).
 
-### Repository structure
+## Repository structure
 
 - src/: Hold all the source code
   - clustering/: Code for clustering, cluster validation, and replication.

@@ -13,4 +13,4 @@ The code for training a deep learning model for clustering the patient trajector
 - src/: Hold all the source code
   - clustering/: Code for clustering, cluster validation, and replication.
   - classifier_training/: Nested cross-validation, Bayesian hyperparameter optimization, xgboost classification model
-  - cost_analysis/: Code used to run the cost analysis presented in the article.
+  - trial_comparison/: Code for the power analysis and the cost analysis presented in the article.
